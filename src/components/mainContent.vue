@@ -6,6 +6,13 @@
             </header>
             
             <section class="about-text">
+                <div class="about-text__content">
+                    <p class="h4">Download Facebook videos and reels in HD and SD quality.</p>
+                    <p class="h4">Just paste the video URL below and click the download button.</p>
+                    <p class="h4">Note: This tool is for educational purposes only. Please respect copyright laws.</p>
+                    <p class="h4">If you have any questions or feedback, feel free to reach out.</p>
+                    <p class="h4">Happy downloading!</p>
+                </div>
                 <form @submit.prevent="submitForm" class="contact-form" data-form>
                     <div class="input-wrapper w-full">
                         <input

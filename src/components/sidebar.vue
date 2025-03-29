@@ -16,6 +16,7 @@
     </div>
     <div class="sidebar-info_more">
         <div class="separator"></div>
+        
         <ul class="contacts-list">
             <li class="contact-item" v-for="item in contactItems" :key="item.title">
                 <a :href="item.link" class="icon-box">
