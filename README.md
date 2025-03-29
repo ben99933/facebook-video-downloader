@@ -18,9 +18,9 @@ Used technologies:
 - [Vite](https://vitejs.dev/)
 - [RapidAPI](https://rapidapi.com/)
 
-<!-- 
+
 ### Demo
-Check the live demo [here](https://ben99933.github.io/)
+Check the live demo [here](https://ben99933.github.io/facebook-video-downloader/)
 
 
 
@@ -30,7 +30,7 @@ Clone the repository
 
 
 ```bash
-git clone https://github.com/ben99933/ben99933.github.io.git
+git clone https://github.com/ben99933/facebook-video-downloader.git
 ```
 
 Install dependencies
@@ -51,4 +51,4 @@ npm run hotfix
 Build for production
 ```bash
 npm run build
-``` -->
+```
